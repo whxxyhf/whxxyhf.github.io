@@ -28,19 +28,78 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2025</div><img src='images/25-TVCG-ChartKG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2025</div><img src='paperInfo/ChartKG/25-TVCG-ChartKG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[ChartKG: A Knowledge-Graph-Based Representation for Chart Images.](https://ieeexplore.ieee.org/document/10711251)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Zhiguang Zhou, **Haoxuan Wang**, Zhengqing Zhao, Fengling Zheng, Yongheng Wang, Wei Chen and Yong Wang*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+IEEE Transactions on Visualization and Computer Graphics
+
+[**PDF**](https://arxiv.org/abs/2410.09761) 
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD 2025</div><img src='paperInfo/GeoVoronoi/25-TBD-GeoVoronoi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GeoVoronoi: A Voronoi Diagram Generation System for Large-scale Geographical Point Data via Spatial Attribute Association](https://ieeexplore.ieee.org/document/10750044)
+
+Zhiguang Zhou, **Haoxuan Wang**, Zhendong Yang, Yuanyuan Chen*, Xiaohui Chen, Ying Lai, Wei Chen and Yuwei Meng
+
+IEEE Transactions on Big Data
+
+[**PDF**](https://ieeexplore.ieee.org/document/10750044) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">THMS 2022</div><img src='paperInfo/iMGC/iMGC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[iMGC: Interactive Multiple Graph Clustering with Constrained Laplacian Rank](./paperInfo/iMGC.pdf)
+
+Zhiguang Zhou, Ling Sun, **Haoxuan Wang**, Wanghao Yu, Yuhua Liu, Xiang Zhang
+
+IEEE Transactions on Human-Machine System
+
+[**PDF**](./paperInfo/iMGC/iMGC.pdf) [**Video**](./paperInfo/iMGC/iMGC.mp4)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VI 2021</div><img src='paperInfo/vi-voronoi/vi-voronoi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hierarchical visualization of geographical areal data with spatial attribute association](./paperInfo/vi-voronoi/vi-voronoi.pdf)
+
+**Haoxuan Wang**, Yuna Ni, Ling Sun, Yuanyuan Chen, Ting Xu, Xiaohui Chen, Weihua Su, Zhiguang Zhou*
+
+Visual Informatics
+
+[**PDF**](./paperInfo/vi-voronoi/vi-voronoi.pdf) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 2020</div><img src='paperInfo/graphSampling/graphSampling.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Context-aware Sampling of Large Networks via Graph Representation Learning](./paperInfo/graphSampling/graphSampling.pdf)
+
+Zhiguang Zhou, Chen Shi, Xilong Shen, Lihong Cai, **Haoxuan Wang**, Yuhua Liu, Ying Zhao and Wei Chen*
+
+IEEE Transactions on Visualization and Computer Graphics (VIS 2020)
+
+[**PDF**](./paperInfo/graphSampling/graphSampling.pdf) [**Video**](./paperInfo/graphSampling/graphSampling.mp4)
+
+</div>
+</div>
+
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
