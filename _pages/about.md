@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-王浩轩 (Haoxuan Wang) 
+# 王浩轩 (Haoxuan Wang) 
+
 I am a prospective PhD student in the HDVIS Lab at Hangzhou Dianzi University (HDU), under the guidance of Prof. Zhiguang Zhou. My current work explores how to integrate large models with visual and multimodal reasoning, aiming to improve the interpretability and efficiency of intelligent systems in real-world applications.
 
 
