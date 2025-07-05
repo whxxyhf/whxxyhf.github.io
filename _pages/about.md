@@ -19,7 +19,7 @@ redirect_from:
 
 # 王浩轩 (Haoxuan Wang) 
 
-I am a prospective PhD student in the HDVIS Lab at Hangzhou Dianzi University (HDU), under the guidance of Prof. Zhiguang Zhou. My current work explores how to integrate large models with visual and multimodal reasoning, aiming to improve the interpretability and efficiency of intelligent systems in real-world applications.
+I am a prospective PhD student in the HDVIS Lab at Hangzhou Dianzi University (HDU), under the guidance of Prof. [**Zhiguang Zhou**](https://www.hdvis.net/). My current work explores how to integrate large models with visual and multimodal reasoning, aiming to improve the interpretability and efficiency of intelligent systems in real-world applications.
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
