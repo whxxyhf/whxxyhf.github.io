@@ -30,16 +30,16 @@ I am a prospective PhD student in the [**HDVIS Lab**](https://www.hdvis.net/) at
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2025</div><img src='paperInfo/ChartKG/25-TVCG-ChartKG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CADGraphics 2025</div><img src='paperInfo/GraphMatching/graphMatching.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ChartKG: A Knowledge-Graph-Based Representation for Chart Images.](https://ieeexplore.ieee.org/document/10711251)
+[A Unified Framework for Interactive Visual Graph Matching via Attribute-Structure Synchronization](./paperInfo/GraphMatching/graphMatching.pdf)
 
-Zhiguang Zhou, **Haoxuan Wang**, Zhengqing Zhao, Fengling Zheng, Yongheng Wang, Wei Chen and Yong Wang*
+Yuhua Liua, **Haoxuan Wang**, Jiajia Kou, Ling Sun, Heyu Wanga,*, Yongheng Wang, Yigang Wang, Jinchang Li and Zhiguang Zhou,
 
-IEEE Transactions on Visualization and Computer Graphics
+CADGraphics
 
-[**PDF**](https://arxiv.org/abs/2410.09761) 
+[**PDF**](./paperInfo/GraphMatching/graphMatching.pdf) [**Video**](./paperInfo/GraphMatching/graphMatching.mp4)
 
 </div>
 </div>
@@ -58,10 +58,25 @@ IEEE Transactions on Big Data
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2025</div><img src='paperInfo/ChartKG/25-TVCG-ChartKG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ChartKG: A Knowledge-Graph-Based Representation for Chart Images.](https://ieeexplore.ieee.org/document/10711251)
+
+Zhiguang Zhou, **Haoxuan Wang**, Zhengqing Zhao, Fengling Zheng, Yongheng Wang, Wei Chen and Yong Wang*
+
+IEEE Transactions on Visualization and Computer Graphics
+
+[**PDF**](https://arxiv.org/abs/2410.09761) 
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">THMS 2022</div><img src='paperInfo/iMGC/iMGC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[iMGC: Interactive Multiple Graph Clustering with Constrained Laplacian Rank](./paperInfo/iMGC.pdf)
+[iMGC: Interactive Multiple Graph Clustering with Constrained Laplacian Rank](./paperInfo/iMGC/iMGC.pdf)
 
 Zhiguang Zhou, Ling Sun, **Haoxuan Wang**, Wanghao Yu, Yuhua Liu, Xiang Zhang
 
