@@ -35,7 +35,7 @@ I am a prospective PhD student in the [**HDVIS Lab**](https://www.hdvis.net/) at
 
 [A Unified Framework for Interactive Visual Graph Matching via Attribute-Structure Synchronization](./paperInfo/GraphMatching/graphMatching.pdf)
 
-Yuhua Liua, **Haoxuan Wang**, Jiajia Kou, Ling Sun, Heyu Wanga,*, Yongheng Wang, Yigang Wang, Jinchang Li and Zhiguang Zhou,
+Yuhua Liua, **Haoxuan Wang**, Jiajia Kou, Ling Sun, Heyu Wanga,*, Yongheng Wang, Yigang Wang, Jinchang Li and Zhiguang Zhou*,
 
 CADGraphics
 
@@ -61,13 +61,27 @@ IEEE Transactions on Big Data
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2025</div><img src='paperInfo/ChartKG/25-TVCG-ChartKG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ChartKG: A Knowledge-Graph-Based Representation for Chart Images.](https://ieeexplore.ieee.org/document/10711251)
+[ChartKG: A Knowledge-Graph-Based Representation for Chart Images](https://ieeexplore.ieee.org/document/10711251)
 
 Zhiguang Zhou, **Haoxuan Wang**, Zhengqing Zhao, Fengling Zheng, Yongheng Wang, Wei Chen and Yong Wang*
 
 IEEE Transactions on Visualization and Computer Graphics
 
 [**PDF**](https://arxiv.org/abs/2410.09761) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PAT 2023</div><img src='paperInfo/3Dprint/3Dprint.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Development of an Intuitive Visualization System for Measuring Melt Electrowritten (MEW) Jet Diameter along the Spinline](paperInfo/3Dprint/3Dprint.pdf)
+
+Zhiguang Zhou, Ke Lu, **Haoxuan Wang**, Sherry Ashour, Hangyue Chen, Huaizhong Xu,* and Ting Xu*
+
+Polymers for Advanced Technologies
+
+[**PDF**](paperInfo/3Dprint/3Dprint.pdf)
 
 </div>
 </div>
