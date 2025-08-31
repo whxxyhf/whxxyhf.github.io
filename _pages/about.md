@@ -35,7 +35,7 @@ I am a prospective PhD student in the [**HDVIS Lab**](https://www.hdvis.net/) at
 
 [A Unified Framework for Interactive Visual Graph Matching via Attribute-Structure Synchronization](./paperInfo/GraphMatching/graphMatching.pdf)
 
-Yuhua Liua, **Haoxuan Wang**, Jiajia Kou, Ling Sun, Heyu Wanga,*, Yongheng Wang, Yigang Wang, Jinchang Li and Zhiguang Zhou*,
+Yuhua Liua, **Haoxuan Wang**, Jiajia Kou, Ling Sun, Heyu Wang*, Yongheng Wang, Yigang Wang, Jinchang Li and Zhiguang Zhou*,
 
 CADGraphics
 
@@ -92,7 +92,7 @@ Polymers for Advanced Technologies
 
 [iMGC: Interactive Multiple Graph Clustering with Constrained Laplacian Rank](./paperInfo/iMGC/iMGC.pdf)
 
-Zhiguang Zhou, Ling Sun, **Haoxuan Wang**, Wanghao Yu, Yuhua Liu, Xiang Zhang
+Zhiguang Zhou, Ling Sun, **Haoxuan Wang**, Wanghao Yu, Yuhua Liu, Xiang Zhang, YigangWang and Wei Chen*
 
 IEEE Transactions on Human-Machine System
 
